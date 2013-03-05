@@ -4,7 +4,7 @@
 //
 //  Created by Sai Chaitanya Nandigam on 4/26/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
-//  This is test
+//  This is a test frm xcode
 //
 
 #import "Tweet.h"
